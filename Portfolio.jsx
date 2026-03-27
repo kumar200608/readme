@@ -466,17 +466,30 @@ function Projects() {
               <span key={t} style={{ padding: '5px 14px', borderRadius: '99px', fontSize: '.78rem', fontWeight: 600, background: 'rgba(255,255,255,0.06)', border: '1px solid rgba(255,255,255,.1)' }}>{t}</span>
             ))}
           </div>
-          <a href="https://github.com/kumar200608/rovia-delice" target="_blank" rel="noreferrer" style={{
-            display: 'inline-flex', alignItems: 'center', gap: '8px',
-            padding: '12px 28px', borderRadius: '999px', fontWeight: 700, fontSize: '.88rem',
-            background: 'var(--cyan)', color: '#000', textDecoration: 'none',
-            transition: 'transform .2s, box-shadow .2s',
-            boxShadow: '0 0 24px rgba(0,220,255,.35)'
-          }}
-            onMouseEnter={e => { e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = '0 0 40px rgba(0,220,255,.6)'; }}
-            onMouseLeave={e => { e.currentTarget.style.transform = 'none'; e.currentTarget.style.boxShadow = '0 0 24px rgba(0,220,255,.35)'; }}>
-            View on GitHub ↗
-          </a>
+          <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
+            <a href="https://github.com/kumar200608/rovia-delice" target="_blank" rel="noreferrer" style={{
+              display: 'inline-flex', alignItems: 'center', gap: '8px',
+              padding: '12px 28px', borderRadius: '999px', fontWeight: 700, fontSize: '.88rem',
+              background: 'rgba(255,255,255,0.05)', color: 'var(--white)', textDecoration: 'none',
+              border: '1px solid rgba(255,255,255,0.15)',
+              transition: 'all .2s'
+            }}
+              onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.1)'; e.currentTarget.style.transform = 'translateY(-2px)'; }}
+              onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.05)'; e.currentTarget.style.transform = 'none'; }}>
+              GitHub ↗
+            </a>
+            <a href="https://rovia-delice.vercel.app/" target="_blank" rel="noreferrer" style={{
+              display: 'inline-flex', alignItems: 'center', gap: '8px',
+              padding: '12px 28px', borderRadius: '999px', fontWeight: 700, fontSize: '.88rem',
+              background: 'var(--cyan)', color: '#000', textDecoration: 'none',
+              transition: 'transform .2s, box-shadow .2s',
+              boxShadow: '0 0 24px rgba(0,220,255,.35)'
+            }}
+              onMouseEnter={e => { e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.boxShadow = '0 0 40px rgba(0,220,255,.6)'; }}
+              onMouseLeave={e => { e.currentTarget.style.transform = 'none'; e.currentTarget.style.boxShadow = '0 0 24px rgba(0,220,255,.35)'; }}>
+              Live Demo 🚀
+            </a>
+          </div>
         </div>
 
         {/* Other project cards */}

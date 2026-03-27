@@ -125,10 +125,9 @@ me.say_hi()
 
 </div>
 
-### 🍽️ Rovia Delice — Full Stack Restaurant Platform
-> A modern restaurant & food discovery platform with AI-powered menu recommendations, real-time order tracking, and stunning UI/UX. Built with React + Python/Flask + MySQL.
-
 **Tech Stack:** `React` `Python` `Flask` `MySQL` `REST API` `AI/ML`
+
+**Live Demo:** [rovia-delice.vercel.app](https://rovia-delice.vercel.app/)
 
 ---
 

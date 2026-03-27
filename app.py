@@ -53,6 +53,7 @@ PROJECTS = [
         "description": "Full-stack restaurant & food discovery platform with AI-powered recommendations, real-time order tracking, and a sleek modern UI.",
         "tech": ["React", "Python", "Flask", "MySQL", "AI/ML", "REST API"],
         "github": "https://github.com/kumar200608/rovia-delice",
+        "live": "https://rovia-delice.vercel.app/",
         "featured": True,
         "status": "active"
     },
