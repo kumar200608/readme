@@ -15,7 +15,7 @@ CORS(app)
 PORTFOLIO = {
     "name": "Kumar V",
     "title": "Full Stack Developer & AI Engineer",
-    "location": "Salem, Tamil Nadu, India",
+    "location": "Erode, Tamil Nadu, India",
     "college": "Erode Sengunthar Engineering College",
     "degree": "B.E. Artificial Intelligence & Data Science",
     "regulation": "R-2023",
