@@ -1,14 +1,20 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dcff,100:ff2d78&height=200&section=header&text=Kumar%20V&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descAlign=50&fontColor=fff&animation=fadeIn" width="100%"/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=24&duration=3000&pause=800&color=00DCFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+%2F+ML+Engineer;🔌+IoT+Systems+Builder;🛡️+Aspiring+Ethical+Hacker;🏀+State-Level+Athlete)](https://git.io/typing-svg)
+<!-- Waving banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dcff,100:ff2d78&height=220&section=header&text=Kumar%20V&fontSize=65&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20IoT%20Builder&descAlignY=56&descAlign=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Profile views & social badges -->
+<!-- Profile Photo -->
+<img src="https://github.com/kumar200608.png" width="130" height="130" style="border-radius:50%" alt="Kumar V"/>
+
+<h3>Kumar V 👨‍💻</h3>
+
+<!-- Typing SVG — Fira Code (supported font) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00DCFF&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Engineer+%F0%9F%A4%96;IoT+Systems+Builder+%F0%9F%94%8C;Aspiring+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;State-Level+Athlete+%F0%9F%8F%80)](https://git.io/typing-svg)
+
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=kumar200608&style=for-the-badge&color=00dcff&labelColor=0d0d1a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar%20V-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-v-a7405a339)
 [![GitHub](https://img.shields.io/badge/GitHub-kumar200608-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumar200608)
@@ -29,7 +35,7 @@ class KumarV:
     batch       = "2024 – 2028"
     location    = "Salem, Tamil Nadu 🇮🇳"
 
-    skills      = ["Python", "React", "Flask", "C", "SQL", "IoT", "ML"]
+    tech        = ["Python", "React", "Django", "Flask", "C", "SQL", "IoT", "ML"]
     interests   = ["AI/ML", "Cybersecurity", "Full Stack", "Open Source"]
     certs       = ["Microsoft AI Fundamentals ✅", "CEH – In Progress 🔄"]
     sports      = ["State Basketball 🏀", "State Badminton 🏸"]
@@ -92,15 +98,15 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kumar200608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=00dcff&icon_color=ff2d78&text_color=eeeeff" height="180"/>
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar200608&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00dcff&text_color=eeeeff" height="180"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kumar200608&theme=tokyonight-duo&hide_border=true&background=0d0d1a&stroke=00dcff&ring=ff2d78&fire=b8ff3c&currStreakLabel=00dcff" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=kumar200608&theme=tokyonight-duo&hide_border=true&background=0d0d1a&stroke=00dcff&ring=ff2d78&fire=b8ff3c&currStreakLabel=00dcff" width="68%"/>
 
-<br/>
+<br/><br/>
 
-<!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar200608&bg_color=0d0d1a&color=00dcff&line=ff2d78&point=b8ff3c&area=true&hide_border=true" width="100%"/>
 
 </div>
@@ -111,7 +117,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kumar200608&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kumar200608&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" width="100%"/>
 
 </div>
 
@@ -119,66 +125,49 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-<div align="center">
+| 🏷️ Project | 🛠️ Tech Stack | 🔗 Link |
+|------------|--------------|---------|
+| 🍽️ **Rovia Delice** — Full Stack Restaurant Platform | `React` `Python` `Flask` `MySQL` `AI/ML` | [GitHub](https://github.com/kumar200608/rovia-delice) |
+| 💎 **Luxora Studio** — Premium Dark UI Platform | `React` `CSS3` `Animations` `UI/UX` | [GitHub](https://github.com/kumar200608/luxora-studio) |
+| ⚡ **Karsha AI Smart Grid** — Energy Dashboard | `Python` `React` `AI/ML` `IoT` | [GitHub](https://github.com/kumar200608/karshaaismartagridashboard) |
+| 📋 **Complaint Management System** | `Python` `Flask` `SQL` `React` | [GitHub](https://github.com/kumar200608/complaintmanagementsystem) |
+| 🏫 **The Matrix** — Exam Hall Portal | `React` `Python` `SQL` `Algorithm` | [GitHub](https://github.com/Kishoreramu25/The-Matrix---Exam-Hall-Allocation-Portal) |
+| 📡 **IoT Smart Monitor** — Sensor Dashboard | `Python` `Arduino` `IoT` `C` | Private |
+| 🤖 **AI Data Classifier** — ML Pipeline | `Python` `Scikit-learn` `Flask` | Private |
 
-[![Rovia Delice](https://github-readme-stats.vercel.app/api/pin/?username=kumar200608&repo=rovia-delice&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00dcff&icon_color=ff2d78&text_color=eeeeff)](https://github.com/kumar200608/rovia-delice)
+### 🍽️ Rovia Delice
+> Full-stack restaurant & food discovery platform. AI-powered recommendations, real-time order tracking, stunning UI. Think Zomato — but built from scratch.
 
-</div>
-
-**Tech Stack:** `React` `Python` `Flask` `MySQL` `REST API` `AI/ML`
-
-**Live Demo:** [rovia-delice.vercel.app](https://rovia-delice.vercel.app/)
+**Stack:** `React` `Python` `Flask` `MySQL` `REST API` `AI/ML`
 
 ---
 
 ### 💎 Luxora Studio
-> A premium luxury studio platform featuring slick dark UI, smooth animations, and an elite design aesthetic. Built for high-end brands and creative agencies to showcase their work in style.
+> Premium luxury studio platform with slick dark UI and elite design aesthetic for high-end brands.
 
-**Tech Stack:** `React` `CSS3` `Animations` `UI/UX Design`
-
-**Repo:** [kumar200608/luxora-studio](https://github.com/kumar200608/luxora-studio)
+**Stack:** `React` `CSS3` `Animations` · [Repo](https://github.com/kumar200608/luxora-studio)
 
 ---
 
 ### ⚡ Karsha AI Smart Grid Dashboard
-> AI-powered smart energy grid monitoring dashboard with real-time power consumption visualization, grid health tracking, and predictive analytics — bringing intelligence to energy management.
+> AI-powered smart energy grid monitoring with real-time visualization and predictive analytics.
 
-**Tech Stack:** `Python` `React` `AI/ML` `IoT` `Data Visualization`
-
-**Repo:** [kumar200608/karshaaismartagridashboard](https://github.com/kumar200608/karshaaismartagridashboard)
+**Stack:** `Python` `React` `AI/ML` `IoT` · [Repo](https://github.com/kumar200608/karshaaismartagridashboard)
 
 ---
 
 ### 📋 Complaint Management System
-> Full-featured complaint tracking and resolution platform. Users can lodge complaints, track status in real-time, and admins can manage, assign, and resolve issues with a clean dashboard interface.
+> Full-featured complaint tracking platform with real-time status and admin dashboard.
 
-**Tech Stack:** `Python` `Flask` `SQL` `React` `REST API`
-
-**Repo:** [kumar200608/complaintmanagementsystem](https://github.com/kumar200608/complaintmanagementsystem)
+**Stack:** `Python` `Flask` `SQL` `React` `REST API` · [Repo](https://github.com/kumar200608/complaintmanagementsystem)
 
 ---
 
 ### 🏫 The Matrix — Exam Hall Allocation Portal
-> Smart exam hall allocation portal that automates seating arrangements, generates hall tickets, and manages student placement — eliminating manual scheduling chaos for institutions.
-> 🤝 Collaboration with [Kishoreramu25](https://github.com/Kishoreramu25)
+> Smart exam hall allocation portal — automates seating, generates hall tickets.
+> 🤝 Collab with [Kishoreramu25](https://github.com/Kishoreramu25)
 
-**Tech Stack:** `React` `Python` `SQL` `Algorithm` `PDF Generation`
-
-**Repo:** [The-Matrix---Exam-Hall-Allocation-Portal](https://github.com/Kishoreramu25/The-Matrix---Exam-Hall-Allocation-Portal)
-
----
-
-### 📡 IoT Smart Monitor
-> Real-time environmental monitoring dashboard using Arduino sensors and Python backend. Tracks temperature, humidity, and sends intelligent alerts.
-
-**Tech Stack:** `Python` `Arduino` `IoT` `Dashboard` `C`
-
----
-
-### 🤖 AI Data Classifier
-> End-to-end machine learning pipeline that trains classification models, evaluates performance, and exposes predictions via a clean REST API.
-
-**Tech Stack:** `Python` `Scikit-learn` `Flask` `REST API` `NumPy`
+**Stack:** `React` `Python` `SQL` `Algorithm` · [Repo](https://github.com/Kishoreramu25/The-Matrix---Exam-Hall-Allocation-Portal)
 
 ---
 
@@ -200,9 +189,9 @@ me.say_hi()
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumar200608/kumar200608/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumar200608/kumar200608/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kumar200608/kumar200608/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumar200608/kumar200608/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumar200608/kumar200608/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kumar200608/kumar200608/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -219,7 +208,7 @@ me.say_hi()
 
 <br/>
 
-**💡 Open to internships, collabs, freelance & cool ideas. Let's build something fire together! 🔥**
+**💡 Open to internships, collabs, freelance & cool ideas. Let's build something fire! 🔥**
 
 <br/>
 
