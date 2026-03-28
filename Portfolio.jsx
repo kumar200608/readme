@@ -286,7 +286,7 @@ function Hero() {
 
         {/* bio */}
         <p style={{ fontSize: '1.05rem', color: 'var(--muted)', maxWidth: '580px', lineHeight: 1.75 }}>
-          First-year <strong style={{ color: 'var(--white)' }}>B.E. AI & Data Science</strong> student at ESEC, Salem •
+          First-year <strong style={{ color: 'var(--white)' }}>B.E. AI & Data Science</strong> student at ESEC, Erode •
           Building full-stack apps, AI models & IoT systems • State-level athlete • NCC cadet
         </p>
 

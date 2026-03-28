@@ -6,7 +6,7 @@ Run: python app.py
 
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from datetime import datetime
+from datetime import datetime, timezone
 
 app = Flask(__name__)
 CORS(app)
@@ -109,7 +109,7 @@ def index():
     return jsonify({
         "status": "online",
         "message": "Kumar V — Portfolio API",
-        "timestamp": datetime.utcnow().isoformat(),
+        "timestamp": datetime.now(timezone.utc).isoformat(),
         "endpoints": [
             "/api/profile",
             "/api/skills",

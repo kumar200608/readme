@@ -33,7 +33,7 @@ class KumarV:
     degree      = "B.E. Artificial Intelligence & Data Science"
     regulation  = "Anna University R-2023"
     batch       = "2024 – 2028"
-    location    = "Salem, Tamil Nadu 🇮🇳"
+    location    = "Erode, Tamil Nadu 🇮🇳"
 
     tech        = ["Python", "React", "Django", "Flask", "C", "SQL", "IoT", "ML"]
     interests   = ["AI/ML", "Cybersecurity", "Full Stack", "Open Source"]
@@ -97,9 +97,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumar200608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=00dcff&icon_color=ff2d78&text_color=eeeeff" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kumar200608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=00dcff&icon_color=ff2d78&text_color=eeeeff" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar200608&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00dcff&text_color=eeeeff" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kumar200608&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00dcff&text_color=eeeeff" height="180"/>
 
 <br/><br/>
 
@@ -117,7 +117,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kumar200608&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=kumar200608&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" width="100%"/>
 
 </div>
 
@@ -184,15 +184,11 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumar200608/kumar200608/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumar200608/kumar200608/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kumar200608/kumar200608/output/github-snake.svg"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar200608&bg_color=0d0d1a&color=00dcff&line=ff2d78&point=b8ff3c&area=true&hide_border=true" width="100%"/>
 
 </div>
 
